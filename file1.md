@@ -13,5 +13,9 @@ Contoh perintah untuk membuat proyek Laravel di Microsoft Windows dengan bantuan
 C:\xampp\php\php.exe composer.phar create-project --prefer-dist laravel/laravel ProyekLaravel2
 ```
 
+Untuk menjalankan proyek Laravel, maka jalankan perintah:
 
+```text
+C:\xampp\php\php.exe artisan serve
+```
 
