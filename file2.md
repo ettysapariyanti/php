@@ -89,6 +89,92 @@ source code di atas menunjukan cara bagaimana mengatur posisi elemen dengan meng
 
 ```html
 
+<!DOCTYPE html>
+<html>
+
+	<head>
+	
+	
+		<title>CSS 2</title>
+		
+		<style>
+		
+		
+			.kotak-orange{
+			
+				position: relative;
+			
+				background: orange;
+				
+				height: 100px;
+				
+				width: 100px;
+				
+				top: 100px;
+				
+				left: 100px;
+			
+			
+			
+			}
+			
+			
+			.kotak-biru{
+			
+				background: lightskyblue;
+				
+				height: 100px;
+				
+				width: 100px;
+			
+			
+			}
+			
+			
+			.kotak-hitam{
+			
+				position: relative;
+			
+				background: #000000;
+				
+				height: 100px;
+				
+				width: 100px;
+				
+				bottom: 100px;
+				
+				left: 200px;
+			
+			}
+		
+		
+		
+		</style>
+	
+	
+	</head>
+	
+	
+	<body>
+	
+	
+		<div class="kotak-orange"></div>
+		
+		<div class="kotak-biru"></div>
+		
+		<div class="kotak-hitam"></div>
+	
+	
+	
+	
+	
+	</body>
+
+
+
+
+
+</html>
 
 
 ```
