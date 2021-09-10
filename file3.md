@@ -1288,6 +1288,15 @@ Aplikasi ini akan dipakai di **Virtual Private Server (VPS)** yang ada di intern
                         <input type="text" id="jumlahkenaikanbersihkasdansetarakas" name="jumlahkenaikanbersihkasdansetarakas" placeholder="Jumlah Kenaikan (Penurunan) Bersih Kas Dan Setara Kas ... ">
                     </div>
                 </div>
+		    
+		<div class="row">
+                    <div class="col-25">
+                        <label for="kasdansetarakasaruskasawalperiode">Kas Dan Setara Kas Arus Kas, Awal Periode</label>
+                    </div>
+                    <div class="col-75">
+                        <input type="text" id="kasdansetarakasaruskasawalperiode" name="kasdansetarakasaruskasawalperiode" placeholder="Kas Dan Setara Kas Arus Kas, Awal Periode ... ">
+                    </div>
+                </div>
 
 
             </form>
