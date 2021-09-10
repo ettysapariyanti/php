@@ -1329,7 +1329,7 @@ Untuk source code SQL untuk MySQL yang mau diterapkan di aplikasi saham untuk ta
 
 	use saham;
 
-	create table arna(arnalprkeuid INT NOT NULL AUTO_INCREMENT,arnalprkeutgl DATE,arnakassetarakas DECIMAL(15,2),arnapiutangusahapihakketiga DECIMAL(15,2),arnapiutangusahapihakberelasi DECIMAL(15,2));
+	create table arna(arnalprkeuid INT NOT NULL AUTO_INCREMENT,PRIMARY KEY (arnalprkeuid),arnalprkeutgl DATE,arnakassetarakas DECIMAL(15,2),arnapiutangusahapihakketiga DECIMAL(15,2),arnapiutangusahapihakberelasi DECIMAL(15,2));
 
 ```
 
