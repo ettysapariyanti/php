@@ -1323,5 +1323,13 @@ Aplikasi ini akan dipakai di **Virtual Private Server (VPS)** yang ada di intern
 ```
 
 
+Untuk source code SQL untuk MySQL yang mau diterapkan di aplikasi saham untuk tabel ARNA, adalah seperti berikut ini:
 
+```sql
+
+	use saham;
+
+	create table arna(arnalprkeuid INT NOT NULL AUTO_INCREMENT,arnalprkeutgl DATE(),arnakassetarakas DECIMAL(15,2),arnapiutangusahapihakketiga DECIMAL(15,2),arnapiutangusahapihakberelasi DECIMAL(15,2));
+
+```
 
