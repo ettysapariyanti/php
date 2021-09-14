@@ -1333,3 +1333,5 @@ Untuk source code SQL untuk MySQL yang mau diterapkan di aplikasi saham untuk ta
 
 ```
 
+Tampilan **Form Input Data** sederhana untuk menginput data saham sampai tanggal **14 September 2021** :
+
