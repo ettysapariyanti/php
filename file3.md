@@ -1337,7 +1337,7 @@ Tampilan **Form Input Data** sederhana untuk menginput data saham sampai tanggal
 
 ```html
 
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
